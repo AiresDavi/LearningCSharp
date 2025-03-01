@@ -10,6 +10,8 @@ namespace LearningC_
     {
         static void Main(string[] args){
             Console.WriteLine("Commiting from the web page");
+            Console.WriteLine("Commiting from the web page");
+            Console.WriteLine("Commiting from the web page");
         }
     }
 }
