@@ -9,7 +9,7 @@ namespace LearningC_
     class Program
     {
         static void Main(string[] args){
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Commiting from the web page");
         }
     }
 }
